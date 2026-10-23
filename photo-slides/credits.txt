@@ -1,0 +1,8 @@
+課程架構來源：https://maskywg.github.io/ai-agent-classroom-20261022/
+六站時間為網站建議，共180分鐘，依現場調整。
+照片為Unsplash實景情境照片，非本班實際上課紀錄。
+https://images.unsplash.com/photo-1516321318423-f06f85e504b3
+https://images.unsplash.com/photo-1496181133206-80ce9b88a853
+https://images.unsplash.com/photo-1519389950473-47ba0277781c
+旁白：zh-TW-HsiaoChenNeural，語速-5%。
+開啟index.html，按全部連播即可；照片與旁白均已內嵌，可離線開啟。
