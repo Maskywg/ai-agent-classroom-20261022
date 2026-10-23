@@ -7,4 +7,4 @@ https://images.unsplash.com/photo-1519389950473-47ba0277781c
 旁白：zh-TW-HsiaoChenNeural，語速-5%。
 開啟index.html，按全部連播即可；照片與旁白均已內嵌，可離線開啟。
 
-2026/10/23 更新：16頁，含員工能力、工作額度、Token／上下文與三工具查詢方式。詳見課程網站 #employee-guide。
+2026/10/23 修正：簡報維持10頁課程導覽；模型、Token與額度教學放在網站 #employee-guide，含操作路線圖。
