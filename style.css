@@ -13,3 +13,5 @@
 .guide-figure{margin:30px 0}.guide-figure img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:14px}.guide-figure figcaption{font-size:13px;color:var(--muted);margin-top:10px}@media(max-width:720px){.guide-figure{overflow-x:auto;padding-bottom:8px}.guide-figure img{min-width:760px}.guide-figure figcaption{position:sticky;left:0;max-width:calc(100vw - 44px)}}
 
 .skill-table-wrap{overflow-x:auto}.skill-table{width:100%;border-collapse:collapse;font-size:15px;min-width:680px}.skill-table th,.skill-table td{padding:16px;border:1px solid var(--line);vertical-align:top;text-align:left}.skill-table th{background:#e8edde}.skill-table code{overflow-wrap:anywhere}#skill-training .links{flex-wrap:wrap}header nav{flex-wrap:wrap}@media(max-width:720px){header nav{flex-wrap:nowrap}}
+
+.agent-comparison{grid-column:1/-1;border-top:1px solid var(--line);margin-top:8px}.agent-comparison summary{color:var(--green);font-size:16px;padding:16px 0}.comparison-content{padding:0 0 20px}.comparison-content img{display:block;width:100%;height:auto;border-radius:10px}.comparison-content p{margin-top:0}
