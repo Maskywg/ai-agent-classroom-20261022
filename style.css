@@ -23,3 +23,18 @@
 .toolicon.toolicon-official{width:88px;height:88px;background:transparent;padding:0;border:0;display:flex;align-items:center;justify-content:center;margin-bottom:18px}.toolicon-official img{display:block;width:80px;height:80px;object-fit:contain;filter:none}
 
 .agent-toolkit .links{display:flex;flex-wrap:wrap;gap:20px;margin-top:16px}.agent-toolkit .comparison-content>p{font-size:15px}
+
+/* Color-coded disclosure arrows retain native keyboard and screen-reader behavior. */
+details{--disclosure-color:#1d5fb7}
+details>summary::marker{content:"▶  ";color:var(--disclosure-color);font-size:1.18em;font-weight:900}
+details[open]>summary::marker{content:"▼  ";color:var(--disclosure-color)}
+details>summary:hover{background-color:#ffffff66}
+details>summary:focus-visible{outline:3px solid var(--disclosure-color);outline-offset:3px;border-radius:6px}
+#local-cloud-comparison{--disclosure-color:#1d5fb7}
+#agent-capabilities{--disclosure-color:#c14b1a}
+#agent-ecosystem{--disclosure-color:#7044bd}
+#digital-employee-toolkit{--disclosure-color:#b02f65}
+.prompt:nth-of-type(3n+1){--disclosure-color:#1d5fb7}
+.prompt:nth-of-type(3n+2){--disclosure-color:#c14b1a}
+.prompt:nth-of-type(3n){--disclosure-color:#7044bd}
+.teacher details{--disclosure-color:#08776c}
